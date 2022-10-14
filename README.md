@@ -17,3 +17,5 @@ R-square is 0.71  of the variations in mpg can be explained by changes in the ve
 ![Summary Statistics on Suspension Coils](https://github.com/Simro25011/MechaCar_Statistical_Analysis/blob/main/Total%20Summary.png)
 
 ![Summary Statistics on Suspension Coils](https://github.com/Simro25011/MechaCar_Statistical_Analysis/blob/main/Lot%20Summary.png)
+
+
